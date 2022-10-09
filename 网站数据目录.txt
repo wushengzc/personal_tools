@@ -1,0 +1,7 @@
+/bak/
+/back/
+/backup/
+/data/
+/database/
+/databackup/
+/data/bakup/
