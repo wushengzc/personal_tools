@@ -1,3 +1,4 @@
+jquery-file-upload/
 index.phps
 www.zip
 common.php
