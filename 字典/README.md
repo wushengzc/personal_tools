@@ -1,4 +1,14 @@
-    表头  | 表头  | 表头
-     ---- | ----- | ------  
-     单元格内容  | 单元格内容 | 单元格内容 
-     单元格内容  | 单元格内容 | 单元格内容   
+| 文件名 | 针对需求 | 项目动态 |
+|----|-----------|
+|directory-list-2.3-medium.txt|目录和文件的关键词枚举|
+|directory-list-2.3-small.txt|目录和文件的关键词枚举|
+|top_weak_password.txt|普通用户弱口令|
+|uploadfile_extensions.txt|文件上传后缀fuzz|
+|website_backup.txt|网站备份文件|
+|website_file_and_directory.txt|目录或文件枚举|
+|后台路径.txt|找后台|
+|后台弱口令|后台管理系统的账号弱口令枚举|
+|后台用户名.txt|后台管理系统的账号用户名枚举|
+|敏感文件_ctf.txt|CTF比赛web题目录枚举|
+|网站数据目录.txt|网站的数据缓存目录|
+|子域名.txt|子域名枚举|
