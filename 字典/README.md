@@ -1,4 +1,4 @@
-| 文件名 | 针对需求 | 项目动态 |
+| 文件名 | 针对需求 |
 |----|-----------|
 |directory-list-2.3-medium.txt|目录和文件的关键词枚举|
 |directory-list-2.3-small.txt|目录和文件的关键词枚举|
