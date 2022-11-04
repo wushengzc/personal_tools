@@ -1,5 +1,6 @@
 | 文件名 | 针对需求 |
 |----|-----------|
+|Linux_File|Linux 敏感文件和配置文件|
 |directory-list-2.3-medium.txt|目录和文件的关键词|
 |directory-list-2.3-small.txt|目录和文件的关键词（精简）|
 |top_weak_password.txt|普通用户弱口令|
